@@ -52,23 +52,7 @@ export default class DataService extends React.Component {
                 })}
             </table>
         </div>
-    //     <ul>
-    //     {
-    //       this.state.datas
-    //         .map(person =>
-    //           <li key={person.jobId}>
-    //                 {person.location}, 
-    //                 {person.overview},
-    //                 {person.responsibilities},
-    //                 {person.skills},
-    //                 {person.department},
-    //                 {person.workStatus},
-    //                 {person.position},
-    //                 {person.jobId},
-    //             </li>
-    //         )
-    //     }
-    //   </ul>
+    
     )
   }
 }
